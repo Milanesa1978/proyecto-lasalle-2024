@@ -2,5 +2,4 @@
 
 Repositorio de practica 2024
 
-jdjfhedbfudbfubruvbufrbvubdrufvbu
-gfcgcfhgfyh
+cambio de texto solo
