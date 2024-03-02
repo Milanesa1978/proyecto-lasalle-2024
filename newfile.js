@@ -1,0 +1,4 @@
+function shout(what){
+    console
+}
+
